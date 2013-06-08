@@ -1,4 +1,4 @@
-const St = imports.gi.St
+coconst St = imports.gi.St
 const Main = imports.ui.main
 
 function init() {}
