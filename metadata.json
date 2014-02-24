@@ -3,18 +3,9 @@
   "description": "Remove Planning. What else?", 
   "name": "Nothing To Do", 
   "shell-version": [
-    "3.4", 
-    "3.6", 
-    "3.6.1",  
-    "3.6.2", 
-    "3.8", 
-    "3.8.1", 
-    "3.8.2", 
-    "3.8.3", 
-    "3.8.4", 
-    "3.9" 
+    "3.10"
   ], 
   "url": "", 
   "uuid": "NothingToDo@obsidien.github.com", 
-  "version": 9
+  "version": 10
 }

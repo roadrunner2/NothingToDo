@@ -7,7 +7,7 @@ let dateMenu, calendarEventsArea, oldAlignment
 
 function enable() {
 	dateMenu = Main.panel.statusArea.dateMenu
-	calendarEventsArea = dateMenu._eventList.actor.get_parent()
+	calendarEventsArea = dateMenu._eventList.actor
 	oldAlignment = dateMenu.menu._arrowAlignment
 	calendarEventsArea.hide()
 	dateMenu.menu._arrowAlignment = 0.50
